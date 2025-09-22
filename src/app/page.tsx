@@ -2,8 +2,8 @@ import { AuroraText } from "@/components/magicui/aurora-text";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-	title: "Home | Nextjs Starter Template",
-	description: "Home page of Nextjs Starter Template",
+	title: "Digital Clock",
+	description: "Digital Clock",
 };
 
 const page = () => {
